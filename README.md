@@ -14,7 +14,7 @@
 
 ### Generate String Session From Below :
 
-[![GenerateString](https://img.shields.io/badge/MightyXSpam%20-String-brightgreen?style=flat-square)](t.me/TheSsGenBot)  ``Telethon``
+[![GenerateString](https://img.shields.io/badge/MightyXSpam%20-String-brightgreen?style=flat-square)](https://t.me/TheSsGenBot)  ``Telethon``
  
 # Deploy To Heroku :
 
